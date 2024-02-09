@@ -39,7 +39,7 @@ async function calcular() {
 
 function mostrarResultado(resultado, monedaNecesito) {
     const resultadoDiv = document.getElementById('resultado');
-    resultadoDiv.innerHTML = `El monto final es ${resultado} ${monedaNecesito}`;
+    resultadoDiv.innerHTML = `Usted recibe ${resultado} ${monedaNecesito}`;
 }
 
 async function cargarTasasDeCambio() {

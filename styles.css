@@ -15,24 +15,18 @@ header {
     z-index: 2;
     margin-bottom: 100px;
 }
-/* Estilos personalizados para el encabezado */
 
-/* Estilos generales del encabezado */
+
 header {
     padding: 10px ;
     height: 10px;
 }
 
-
-/* Estilos del logotipo */
 .navbar-brand img {
-    margin-right: 1100px; /* Espacio a la derecha del logotipo */
+    margin-right: 1100px; 
     width: 100px;
     height: 100px;
 }
-
-
-/* Agrega más estilos según sea necesario */
 
 
 .seccion {
@@ -51,7 +45,7 @@ header {
     padding: 50px;
     border-radius: 5px;
     border: 3px rgb(114, 132, 147) solid;
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9); /* offsetX offsetY blurRadius color */
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9); 
 }
 
 .input-group label {
@@ -79,9 +73,6 @@ header {
     text-align: center;
 }
 
-/* #booking-section {
-    background-color: #fff;
-} */
 
 #booking-section iframe,
 #turismocity-section iframe {
@@ -97,7 +88,7 @@ header {
     align-items: center;
     margin-left: 5%;
     border: 3px rgb(114, 132, 147) solid;
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9); /* offsetX offsetY blurRadius color */
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9);
     
     
 }
@@ -109,7 +100,7 @@ header {
     align-items: center;
     margin-left: 5%;
     border: 3px rgb(114, 132, 147) solid;
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9); /* offsetX offsetY blurRadius color */
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9); 
 }
 
 .footer-azul {
@@ -118,7 +109,7 @@ header {
     color: #fff;
     text-align: center;
     padding: 30px;
-    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9); /* offsetX offsetY blurRadius color */;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9);
 }
 
 .footer-azul h3 {
